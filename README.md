@@ -23,6 +23,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/ba94bbeb3eb04e1db95b61b0c7d8a985">
+      <p>Simulator - iPhone 12 Pro – 14.4 - 26 December 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ba94bbeb3eb04e1db95b61b0c7d8a985">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ba94bbeb3eb04e1db95b61b0c7d8a985-fac593c237e9e3c3-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 My favourite app 1: GuitarTuna (it's a app that helps us tune the Guitar/Ukulele)
   * It uses microphone to interact with real world
